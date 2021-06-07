@@ -27,10 +27,10 @@
 ## 1.Model 3: 7Layers with 4 Convolution Layer
 ![layer7_model](https://user-images.githubusercontent.com/41053620/120953953-13b4e000-c789-11eb-967e-b1331ed8daef.jpg)
 ## 2.Training with Training loss
-![layer7_training](test)
+![layer7_training](https://user-images.githubusercontent.com/41053620/120954231-b1101400-c789-11eb-9423-f58344e7ed90.jpg)
 ## 3. Test Accuracy
-![layer7_test](test)
+![layer7_test](https://user-images.githubusercontent.com/41053620/120954236-b2d9d780-c789-11eb-85a9-25687ffa2f46.jpg)
 ## 4. Images and corresponding probability that predicted Right
-![layer7_correct](test)
+![layer7_correct](https://user-images.githubusercontent.com/41053620/120954245-b4a39b00-c789-11eb-86f6-d14872490900.jpg)
 ## 5. Images and corresponding probability that predicted Wrong
-![layer7_wrong](test)
+![layer7_wrong](https://user-images.githubusercontent.com/41053620/120954250-b53c3180-c789-11eb-84a2-75e904ed0d7f.jpg)
